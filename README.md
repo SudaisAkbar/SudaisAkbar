@@ -1,6 +1,7 @@
 Hi, I’m Muhammad Sudais Akbar! 👋
+
 👀 About Me
-I’m passionate about technology and always excited to learn new things. My journey as a web developer has led me to specialize in full-stack development, where I build both the front-end and back-end of applications, focusing on performance and user experience.
+I’m passionate about technology and always excited to learn new things. My journey as a web developer has led me to specialize in full-stack development. I build both the front-end and back-end of applications, focusing on performance and user experience.
 
 🌱 Currently Learning
 I'm deepening my Node.js, Express.js, and MongoDB skills to create more powerful and scalable web applications. I’m also exploring React.js to enhance my front-end development capabilities.
