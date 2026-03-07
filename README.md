@@ -48,25 +48,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 📈 Contribution Graph
-
-[![Sudais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudais_Akbar&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
-
----
-
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=Sudais_Akbar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
-
----
+## 🎮 Developer Zone
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sudais_Akbar&label=Profile%20views&color=blueviolet&style=flat" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
-⭐ From [Muhammad Sudais Akbar](https://github.com/YOUR_USERNAME)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudais_Akbar&theme=tokyonight"/>
+</p>
