@@ -49,18 +49,24 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</picture>
+[![Sudais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudais_Akbar&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=Sudais_Akbar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Sudais_Akbar&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 ⭐ From [Muhammad Sudais Akbar](https://github.com/YOUR_USERNAME)
